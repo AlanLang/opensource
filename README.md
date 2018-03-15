@@ -16,6 +16,7 @@
 
 # js
 * [SelectPage](https://github.com/TerryZ/SelectPage) 下拉选择器
+* [Layui](https://github.com/sentsin/layui/) ui
 
 ## 其他
 * [gitignore](https://github.com/github/gitignore) gitignore 集合
