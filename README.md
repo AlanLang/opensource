@@ -1,4 +1,5 @@
 # 本人收藏的开源项目清单
+本项目停止更新，最新信息请访问：[这里](http://langwenda.cn/archives/11895.html#more)
 ## Android
 * [MarqueeViewLibrary](https://github.com/gongwen/MarqueeViewLibrary) 快速实现跑马灯
 * [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) 下拉刷新
